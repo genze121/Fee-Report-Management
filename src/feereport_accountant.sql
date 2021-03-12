@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Dec 17, 2016 at 08:39 AM
+-- Generation Time: Dec 17, 2019 at 08:39 AM
 -- Server version: 5.5.16
 -- PHP Version: 5.4.0beta2-dev
 
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `feereport_accountant` (
 
 INSERT INTO `feereport_accountant` (`id`, `name`, `password`, `email`, `contactno`) VALUES
 (1, 'prateek', 'prateek', 'prateek@gmail.com', '9199291212'),
-(2, 'sonoo', 'sonoo123', 'sonoo@gmail.com', '939292932'),
+(2, 'balwan', 'balwan123', 'balwan@gmail.com', '939292932'),
 (3, 'salman', 'salman', 'salman@gmail.com', '939929322'),
 (4, 'varun', 'varun', 'varun@gmail.com', '9399239239'),
 (5, 'abhi', 'abhi', 'abhi@gmail.com', '93923923'),
